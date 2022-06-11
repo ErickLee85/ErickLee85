@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erick Crowne
 - 👀 I’m interested in all things science!
-- 🌱 I’m currently studying software development @TheTechAcademy
+- 🌱@TheTechAcademy Graduate!
 - ⬇️ Feel free to check out my repsitory!
 - 😎 [My First Website](https://ericklee85.github.io)
